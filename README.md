@@ -1,5 +1,5 @@
 # **BBDD_alumni**
-##📝 **Descripción del Proyecto**
+## 📝 **Descripción del Proyecto**
 Este proyecto consiste en la creación de una base de datos relacional diseñada para gestionar la información de una escuela de bootcamps. El objetivo principal es organizar y almacenar datos relacionados con:
 
 **Estudiantes**: Información detallada de los alumnos.
@@ -10,7 +10,7 @@ Este proyecto consiste en la creación de una base de datos relacional diseñada
 **Contexto de las clases**: Como modalidad, promoción y campus.
 El sistema permite un seguimiento eficiente de la relación entre alumnos y profesores, las clases a las que asisten los alumnos, sus notas y los proyectos asociados.
 
-##🎯 **Requisitos del Proyecto**
+## 🎯 **Requisitos del Proyecto**
 Los requisitos funcionales y técnicos para el desarrollo de este proyecto incluyen:
 
 **Diseño de Modelo Entidad-Relación (E/R)**: Definición clara de las entidades, sus atributos y las relaciones entre ellas.
@@ -18,7 +18,7 @@ Los requisitos funcionales y técnicos para el desarrollo de este proyecto inclu
 Creación de la Base de Datos en PostgreSQL: Implementación de la base de datos en SQL, asegurando que sea funcional, normalizada y escalable.
 **Despliegue en Render**: Alojar la base de datos para acceso remoto.
 
-##🛠️ **Tecnologías Utilizadas**
+## 🛠️ **Tecnologías Utilizadas**
 Este proyecto ha sido desarrollado utilizando las siguientes tecnologías y herramientas:
 
 **GitHub**
@@ -27,7 +27,7 @@ Este proyecto ha sido desarrollado utilizando las siguientes tecnologías y herr
 **pgAdmin & PostgreSQL**: Gestión y motor de la base de datos relacional.
 **Render**: Plataforma de despliegue para la base de datos.
 
-##📊 **Diseño de la Base de Datos**
+## 📊 **Diseño de la Base de Datos**
 A continuación, se presentan los diagramas de la estructura de la base de datos.
 
 **Modelo Entidad-Relación (E/R)**
